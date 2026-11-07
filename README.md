@@ -1,4 +1,4 @@
-# InterviewAce AI — Asymmetric Dual-Screen WebRTC Teleprompter 🎯
+# InterviewAce AI:  Asymmetric Dual-Screen WebRTC Teleprompter 🎯
 
 <div align="center">
 
